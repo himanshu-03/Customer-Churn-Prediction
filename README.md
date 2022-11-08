@@ -28,8 +28,8 @@ We need to predict whether the customer will churn, stay or join the company bas
 
 The ability to predict churn before it happens allows businesses to take proactive actions to keep existing customers from churning. This could look like: 
 ```
-  Customer success teams reaching out to those high-risk customers 
-  to provide support or to gauge what needs may not be being met.
+  Customer success teams reaching out to those high-risk customers to provide support or to 
+  gauge what needs may not be being met.
 ```
 
 The advantage of calculating a company's churn rate is that it provides clarity on how well the business is retaining customers, which is a reflection on the quality of the service the business is providing, as well as its usefulness.
