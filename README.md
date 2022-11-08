@@ -46,6 +46,7 @@ The advantage of calculating a company's churn rate is that it provides clarity 
 
 
 <a href='https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=for-the-badge&logo=Google Colab&logoColor=FFA200&labelColor=000000&color=FFFFFF'/></a>
+<a href='https://www.kaggle.com/code/hiimanshuagarwal/customer-churn-prediction' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/Kaggle-100000?style=for-the-badge&logo=Kaggle&logoColor=20beff&labelColor=black&color=FFFFFF'/></a>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
