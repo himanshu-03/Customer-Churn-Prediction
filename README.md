@@ -12,6 +12,10 @@ The Zip Code Population table contains complimentary information on the estimate
 We need to predict whether the customer will churn, stay or join the company based on the parameters of the dataset.
 <br><br>
 
+## 👀 Screenshots
+
+
+
 ## 📓 Overview
 
 | Machine Learning Models Applied            | Accuracy |
